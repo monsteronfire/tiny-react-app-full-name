@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/monsteronfire/tiny-react-app-full-name/issues"
   },
-  "homepage": "https://github.com/monsteronfire/tiny-react-app-full-name#readme"
+  "homepage": "https://github.com/monsteronfire/tiny-react-app-full-name#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
 }
