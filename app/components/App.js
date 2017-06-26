@@ -1,6 +1,6 @@
-const React = require('react');
-const Greeting = require('./Greeting');
-const Fullname = require('./Fullname');
+import React from 'react';
+import Greeting from './Greeting';
+import Fullname from './Fullname';
 
 class App extends React.Component {
   render() {
